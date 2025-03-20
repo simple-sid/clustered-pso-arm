@@ -1,0 +1,3 @@
+antecedents,consequents,support,confidence,leverage,lift
+frozenset({'tongue lesions'}),frozenset({'mouth ulcer'}),0.002169848886729164,0.5305280528052805,0.0021198169097399536,43.369241379310346
+frozenset({'tongue lesions'}),frozenset({'mouth pain'}),0.0020301416644731957,0.4963696369636963,0.001988451570764614,48.69602065814738
