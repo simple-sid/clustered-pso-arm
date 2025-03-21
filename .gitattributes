@@ -1,2 +1,4 @@
 data/dataset.csv filter=lfs diff=lfs merge=lfs -text
 data/augmented_dataset.csv filter=lfs diff=lfs merge=lfs -text
+data/preprocessed_binary_transactions.csv filter=lfs diff=lfs merge=lfs -text
+data/preprocessed_transactions_with_disease.csv filter=lfs diff=lfs merge=lfs -text
