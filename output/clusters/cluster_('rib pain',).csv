@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,leverage,lift,antecedent_len
+frozenset({'rib pain'}),frozenset({'back pain'}),0.0037774943138485628,0.46043106284962165,0.003053780892805493,5.219599642637768,1

@@ -1,0 +1,5 @@
+antecedents,consequents,support,confidence,leverage,lift,antecedent_len
+frozenset({'excessive urination at night'}),frozenset({'retention of urine'}),0.003647235889233095,0.5183693045563549,0.003410927226442343,15.434203072202527,1
+frozenset({'excessive urination at night'}),frozenset({'blood in urine'}),0.0037666956879737054,0.535347721822542,0.0035786906185737767,20.03507511790068,1
+frozenset({'excessive urination at night'}),frozenset({'frequent urination'}),0.003344874364737087,0.4753956834532374,0.0031394036429097647,16.279080226077753,1
+frozenset({'symptoms of prostate'}),frozenset({'blood in urine'}),0.003037788441420829,0.5025681107637338,0.0028762754053013317,18.808317361908045,1

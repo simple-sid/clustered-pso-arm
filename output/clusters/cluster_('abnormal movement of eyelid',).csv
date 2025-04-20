@@ -1,0 +1,61 @@
+antecedents,consequents,support,confidence,leverage,lift,antecedent_len
+frozenset({'abnormal movement of eyelid'}),frozenset({'double vision'}),0.004251284024107932,0.5036782344474652,0.0040949751162022855,27.19796383373212,1
+frozenset({'foreign body sensation in eye'}),frozenset({'diminished vision'}),0.011609872643706089,0.5200278122071404,0.010817864693345969,14.658782955937708,1
+frozenset({'foreign body sensation in eye'}),frozenset({'pain in eye'}),0.011605148244885838,0.5198161975875933,0.010748363889476574,13.54500484470489,1
+frozenset({'foreign body sensation in eye'}),frozenset({'symptoms of eye'}),0.011552504943745908,0.5174582061126394,0.010793284492196426,15.216272059279465,1
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'pain in eye'}),0.005932495089999798,0.5109870945238926,0.005486943396123013,13.314942287348597,2
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'pain in eye'}),0.005875127390039618,0.5085587427703453,0.005431777294464166,13.251666005426076,2
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'symptoms of eye'}),0.005850830481821188,0.503953028717591,0.005456014731418994,14.819141525790243,2
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'diminished vision'}),0.005850830481821188,0.5064555704854823,0.005440999468600893,14.276202368990061,2
+frozenset({'diminished vision'}),frozenset({'pain in eye'}),0.014968920204903926,0.421950801894869,0.013607477716516212,10.994897201005426,1
+frozenset({'diminished vision'}),frozenset({'lacrimation'}),0.013087934560327199,0.3689287141144912,0.012036193781117761,12.444068746830382,1
+frozenset({'symptoms of eye'}),frozenset({'lacrimation'}),0.012148454109214602,0.3572350010915514,0.01114025323327476,12.049636534871922,1
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'lacrimation'}),0.006007410557006621,0.40625285257873117,0.005569010152302194,13.703022379864972,2
+frozenset({'symptoms of eye'}),frozenset({'itchiness of eye'}),0.010760155770178245,0.31641097902236687,0.009808806342543613,11.31041387908493,1
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'itchiness of eye'}),0.004790540403733625,0.32396166134185306,0.004376860963412217,11.580320259599118,2
+frozenset({'symptoms of eye'}),frozenset({'eye redness'}),0.01059952621028974,0.31168753845237857,0.009763096121235725,12.672339683855219,1
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'eye redness'}),0.0048161871401864115,0.32569602921040625,0.004452478579423249,13.24188556376211,2
+frozenset({'symptoms of eye'}),frozenset({'pain in eye'}),0.014916951817881175,0.4386448885625261,0.013611870246007582,11.429899968985227,1
+frozenset({'diminished vision'}),frozenset({'symptoms of eye'}),0.014787368307382885,0.4168331335730457,0.01358095624550691,12.257311390262858,1
+frozenset({'symptoms of eye'}),frozenset({'diminished vision'}),0.014787368307382885,0.4348343818842162,0.01358095624550691,12.257311390262858,1
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'pain in eye'}),0.007011007849251183,0.47412140575079875,0.006443513510637048,12.354322100150997,2
+frozenset({'double vision'}),frozenset({'diminished vision'}),0.007073774862148791,0.381974561755166,0.0064168049975842235,10.767274488057698,1
+frozenset({'double vision'}),frozenset({'spots or clouds in vision'}),0.006398860744970203,0.34553008491563103,0.006006376151490825,16.303469871885326,1
+frozenset({'double vision'}),frozenset({'foreign body sensation in eye'}),0.005693575492518577,0.307445606618317,0.005280130556918795,13.77106115536025,1
+frozenset({'double vision'}),frozenset({'pain in eye'}),0.007819554961631132,0.4222457086628521,0.00710885312880442,11.0025816741319,1
+frozenset({'double vision'}),frozenset({'symptoms of eye'}),0.0067066215824036395,0.362148766354459,0.006076848917871271,10.649273873110351,1
+frozenset({'double vision'}),frozenset({'lacrimation'}),0.006075576882841658,0.32807318050949374,0.005526545905904882,11.066000167675954,1
+"frozenset({'double vision', 'diminished vision'})",frozenset({'pain in eye'}),0.003455560279954376,0.4885030054384124,0.0031840902588217996,12.729067708978448,2
+"frozenset({'double vision', 'diminished vision'})",frozenset({'spots or clouds in vision'}),0.003227439308348013,0.4562541742200172,0.003077520177758073,21.527868362415543,2
+"frozenset({'double vision', 'symptoms of eye'})",frozenset({'spots or clouds in vision'}),0.00311405373666201,0.4643252490691355,0.0029719159253203216,21.90869345227266,2
+"frozenset({'foreign body sensation in eye', 'double vision'})",frozenset({'pain in eye'}),0.003044537582592615,0.5347321005215742,0.002826035426474457,13.933672951704139,2
+"frozenset({'double vision', 'symptoms of eye'})",frozenset({'pain in eye'}),0.0034825568446415194,0.5192714098822582,0.0032251770526374726,13.530809149875935,2
+"frozenset({'double vision', 'diminished vision'})",frozenset({'symptoms of eye'}),0.003363097045900909,0.4754317336132049,0.0031225399083607747,13.980450051455282,2
+"frozenset({'double vision', 'symptoms of eye'})",frozenset({'diminished vision'}),0.003363097045900909,0.5014591929153668,0.0031251762199167948,14.135362181894326,2
+"frozenset({'double vision', 'diminished vision'})",frozenset({'lacrimation'}),0.003005392563796257,0.4248640396908692,0.0027956766969908214,14.330782928239357,2
+"frozenset({'double vision', 'symptoms of eye'})",frozenset({'lacrimation'}),0.0030762585461000086,0.4586897453959947,0.0028774276551119717,15.47173344550922,2
+frozenset({'abnormal movement of eyelid'}),frozenset({'diminished vision'}),0.004023163052501569,0.47665120742043815,0.003723732857296041,13.436063285935745,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'itchiness of eye'}),0.003078958202568723,0.36478490324644175,0.0028428342828672386,13.039586190425943,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'foreign body sensation in eye'}),0.003696504619787132,0.4379497841036303,0.0035080669083322365,19.616586251483596,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'spots or clouds in vision'}),0.003545998771656307,0.4201183431952663,0.0033671142523205764,19.822837576018415,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'symptoms of eye'}),0.0038254132161682428,0.45322245322245325,0.003538378814672496,13.327368413799439,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'lacrimation'}),0.003319902542401479,0.3933312010235087,0.003069668153481645,13.26717145765707,1
+frozenset({'abnormal movement of eyelid'}),frozenset({'pain in eye'}),0.0037518475773957766,0.44450663681432917,0.003427927714378507,11.582641281852329,1
+frozenset({'blindness'}),frozenset({'diminished vision'}),0.003913152051401459,0.5219191646412819,0.003647170119645645,14.712097267546527,1
+frozenset({'diminished vision'}),frozenset({'foreign body sensation in eye'}),0.011609872643706089,0.3272644255464871,0.010817864693345969,14.658782955937712,1
+frozenset({'symptoms of eye'}),frozenset({'foreign body sensation in eye'}),0.011552504943745908,0.33971063964911585,0.010793284492196426,15.216272059279467,1
+frozenset({'foreign body sensation in eye'}),frozenset({'lacrimation'}),0.009718763287371682,0.435321503068412,0.009056880722916286,14.683516093777722,1
+frozenset({'foreign body sensation in eye'}),frozenset({'itchiness of eye'}),0.007087273144492363,0.31745215998065235,0.006462713481945953,11.347631890917567,1
+frozenset({'foreign body sensation in eye'}),frozenset({'eye redness'}),0.008416853955334183,0.37700656005320593,0.007867738689177879,15.328027600198492,1
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'foreign body sensation in eye'}),0.005850830481821188,0.3956640803286171,0.005520695326057814,17.722530847380575,2
+"frozenset({'foreign body sensation in eye', 'diminished vision', 'symptoms of eye'})",frozenset({'pain in eye'}),0.0030175410179054717,0.5157457607567194,0.002793003892326013,13.43894026485893,3
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'lacrimation'}),0.005009887491816667,0.4315195907452622,0.0046656901498848755,14.555276527409854,2
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'lacrimation'}),0.004966018074200058,0.4298650464450547,0.004623521509739736,14.499468285251535,2
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'itchiness of eye'}),0.0036040413857336656,0.31197055558801196,0.0032808578631420846,11.15168668511676,2
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'itchiness of eye'}),0.0035001046116881628,0.3014765724915707,0.003175316216781323,10.776569195743923,2
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'eye redness'}),0.004319450349942969,0.37389729508675584,0.004035306149368663,15.201613621578726,2
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'eye redness'}),0.00442946135104308,0.38152540402278806,0.004143906140534275,15.511751101129008,2
+frozenset({'foreign body sensation in eye'}),frozenset({'spots or clouds in vision'}),0.008690194172791512,0.38924997732700506,0.00821703560769423,18.3663465354469,1
+"frozenset({'foreign body sensation in eye', 'symptoms of eye'})",frozenset({'spots or clouds in vision'}),0.004482779566300188,0.38803528655722386,0.004237939783998118,18.309032642291633,2
+"frozenset({'foreign body sensation in eye', 'diminished vision'})",frozenset({'spots or clouds in vision'}),0.004285029729966861,0.3690849901174282,0.004038974116532252,17.414883042713516,2
+"frozenset({'diminished vision', 'symptoms of eye'})",frozenset({'spots or clouds in vision'}),0.004774342464921338,0.3228662711090826,0.004460944110639725,15.234101901604816,2

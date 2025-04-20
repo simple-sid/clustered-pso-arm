@@ -1,0 +1,3 @@
+antecedents,consequents,support,confidence,leverage,lift,antecedent_len
+frozenset({'vomiting blood'}),frozenset({'nausea'}),0.0049795163565436295,0.37170638319310795,0.0036960444986922757,3.8797238335087334,1
+frozenset({'vomiting blood'}),frozenset({'sharp abdominal pain'}),0.005622709510214825,0.41971887752531617,0.0038672223530715286,3.2029340045783408,1

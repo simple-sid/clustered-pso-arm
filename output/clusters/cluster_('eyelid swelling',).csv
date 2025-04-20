@@ -1,0 +1,4 @@
+antecedents,consequents,support,confidence,leverage,lift,antecedent_len
+frozenset({'eyelid swelling'}),frozenset({'eye redness'}),0.0032935808918315144,0.499437109814758,0.003131381149831658,20.30570980707495,1
+frozenset({'eyelid swelling'}),frozenset({'pain in eye'}),0.0034407121693764467,0.5217480298843516,0.0031876319693491207,13.595343171867809,1
+frozenset({'eyelid swelling'}),frozenset({'symptoms of eye'}),0.003223389823644941,0.48879336813018115,0.0029991284181583792,14.373359591907546,1
